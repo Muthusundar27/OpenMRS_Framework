@@ -18,7 +18,7 @@ Feature: Patient Registration, Attachment Upload, and Deletion in OpenMRS
     When user clicks on Confirm
     Then user should be redirected to the patient details page and the age should be calculated correctly based on the provided Birthdate
     When user clicks on Start Visit and confirms the visit
-    And user clicks on Attachment and uploads an attachment with file path "/ImagePath" and caption "TestImages"
+    And user clicks on Attachment and uploads an attachment with file path "C:\\Users\\a851335\\OneDrive - Eviden\\Pictures\\Screenshots\\TestMS.png" and caption "TestImages"
     Then user should see a toaster message confirming the successful attachment upload
     When user redirects to the Patient details screen
     Then user should verify that the attachment section contains the uploaded attachment

@@ -46,6 +46,12 @@ public class BasePage {
 		element.sendKeys(text);
 	}
 
+	// A utility method for sending file to an input field
+	public void sendKeysToFile(By locator, String text) {
+		WebElement element = driver.findElement(locator);
+		element.sendKeys(text);
+	}
+
 	// A utility method for clearing the input field
 	public void clearElement(By locator) {
 		WebElement element = waitForElementToBeVisible(locator);
@@ -61,12 +67,12 @@ public class BasePage {
 			return false; // Return false if the element is not visible
 		}
 	}
-	
+
 	public void selectDropdownByVisibleText(By locator, String text) {
-	    new Select(wait.until(ExpectedConditions.visibilityOfElementLocated(locator))).selectByVisibleText(text);
+		new Select(wait.until(ExpectedConditions.visibilityOfElementLocated(locator))).selectByVisibleText(text);
 	}
-	
+
 	public String getText(By locator) {
-	    return wait.until(ExpectedConditions.visibilityOfElementLocated(locator)).getText();
+		return wait.until(ExpectedConditions.visibilityOfElementLocated(locator)).getText();
 	}
 }

@@ -25,7 +25,7 @@ public class PatientDashboardPage extends BasePage {
 
 	// Upload a file using input field
 	public void uploadFile(String filePath) {
-		sendKeysToElement(uploadInputField, filePath);
+		sendKeysToFile(uploadInputField, filePath);
 	}
 
 	// Enter caption for uploaded file
