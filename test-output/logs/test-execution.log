@@ -1,0 +1,128 @@
+2025-04-13 22:04:42 INFO  LoggerUtil:11 - Starting scenario: User registers a new patient, uploads an attachment, ends the visit, and deletes the patient record
+2025-04-13 22:05:21 INFO  LoggerUtil:11 - Finished scenario: PASSED
+2025-04-13 23:04:52 INFO  LoggerUtil:11 - Starting scenario: User registers a new patient, uploads an attachment, ends the visit, and deletes the patient record
+2025-04-13 23:05:39 INFO  LoggerUtil:11 - Finished scenario: PASSED
+2025-04-13 23:14:52 INFO  LoggerUtil:11 - Finished scenario: PASSED
+2025-04-14 07:09:51 INFO  LoggerUtil:11 - Finished scenario: PASSED
+2025-04-14 10:47:33 INFO  LoggerUtil:19 - Launching OpenMRS login page...
+2025-04-14 10:47:33 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:47:33 INFO  LoggerUtil:19 - Entering username: Admin and password: Admin123
+2025-04-14 10:47:33 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:47:33 INFO  LoggerUtil:19 - Selecting location: Laboratory
+2025-04-14 10:47:33 INFO  LoggerUtil:19 - Clicking login button
+2025-04-14 10:47:34 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:47:35 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:47:40 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:47:42 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:47:43 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:47:43 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:47:52 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:47:53 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:48:04 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:48:06 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:48:08 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:48:10 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:48:10 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:48:11 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:48:14 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:48:15 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:48:18 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:48:19 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:56:21 INFO  LoggerUtil:19 - Launching OpenMRS login page...
+2025-04-14 10:56:21 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:56:21 INFO  LoggerUtil:19 - Entering username: Admin and password: Admin123
+2025-04-14 10:56:22 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:56:22 INFO  LoggerUtil:19 - Selecting location: Laboratory
+2025-04-14 10:56:22 INFO  LoggerUtil:19 - Clicking login button
+2025-04-14 10:56:22 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:56:25 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:56:28 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:56:31 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:56:31 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:56:31 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:56:39 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:56:39 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:56:47 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:56:48 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:56:51 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:56:52 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:56:53 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:56:53 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:56:55 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:56:57 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:57:01 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 10:57:02 INFO  LoggerUtil:19 - Step passed: Unable to fetch step
+2025-04-14 11:03:18 INFO  LoggerUtil:19 - Launching OpenMRS login page...
+2025-04-14 11:03:18 INFO  LoggerUtil:19 - Step passed: null
+2025-04-14 11:05:35 INFO  LoggerUtil:19 - Launching OpenMRS login page...
+2025-04-14 11:05:36 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:05:36 INFO  LoggerUtil:19 - Entering username: Admin and password: Admin123
+2025-04-14 11:05:36 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:05:36 INFO  LoggerUtil:19 - Selecting location: Laboratory
+2025-04-14 11:05:36 INFO  LoggerUtil:19 - Clicking login button
+2025-04-14 11:05:36 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:05:39 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:05:48 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:05:50 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:05:51 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:05:51 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:05:57 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:05:58 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:06:06 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:06:09 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:06:11 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:06:14 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:06:14 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:06:15 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:06:18 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:06:19 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:06:22 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:06:23 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:22:28 INFO  LoggerUtil:19 - Launching OpenMRS login page...
+2025-04-14 11:22:28 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:22:28 INFO  LoggerUtil:19 - Entering username: Admin and password: Admin123
+2025-04-14 11:22:29 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:22:29 INFO  LoggerUtil:19 - Selecting location: Laboratory
+2025-04-14 11:22:29 INFO  LoggerUtil:19 - Clicking login button
+2025-04-14 11:22:31 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:22:32 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:22:35 INFO  LoggerUtil:19 - Step passed: Unnamed Step
+2025-04-14 11:22:46 ERROR LoggerUtil:33 - Step failed: Unnamed Step
+2025-04-14 11:28:53 INFO  LoggerUtil:19 - Launching OpenMRS login page...
+2025-04-14 11:28:53 INFO  LoggerUtil:19 - Step: Unnamed Step
+2025-04-14 11:28:53 INFO  LoggerUtil:19 - Step passed
+2025-04-14 11:28:53 INFO  LoggerUtil:19 - Entering username: Admin and password: Admin123
+2025-04-14 11:28:53 INFO  LoggerUtil:19 - Step: Unnamed Step
+2025-04-14 11:28:53 INFO  LoggerUtil:19 - Step passed
+2025-04-14 11:28:53 INFO  LoggerUtil:19 - Selecting location: Laboratory
+2025-04-14 11:28:54 INFO  LoggerUtil:19 - Clicking login button
+2025-04-14 11:28:56 INFO  LoggerUtil:19 - Step: Unnamed Step
+2025-04-14 11:28:56 INFO  LoggerUtil:19 - Step passed
+2025-04-14 11:28:56 INFO  LoggerUtil:19 - Step: Unnamed Step
+2025-04-14 11:28:56 INFO  LoggerUtil:19 - Step passed
+2025-04-14 11:28:59 INFO  LoggerUtil:19 - Step: Unnamed Step
+2025-04-14 11:28:59 INFO  LoggerUtil:19 - Step passed
+2025-04-14 11:29:21 INFO  LoggerUtil:19 - Step: Unnamed Step
+2025-04-14 11:29:21 ERROR LoggerUtil:33 - Step failed
+2025-04-14 11:35:04 INFO  LoggerUtil:19 - Launching OpenMRS login page...
+2025-04-14 11:35:04 INFO  LoggerUtil:19 - Step: Unnamed Step
+2025-04-14 11:35:04 INFO  LoggerUtil:19 - Step passed
+2025-04-14 11:35:04 INFO  LoggerUtil:19 - Entering username: Admin and password: Admin123
+2025-04-14 11:35:04 INFO  LoggerUtil:19 - Step: Unnamed Step
+2025-04-14 11:35:04 INFO  LoggerUtil:19 - Step passed
+2025-04-14 11:35:04 INFO  LoggerUtil:19 - Selecting location: Laboratory
+2025-04-14 11:35:04 INFO  LoggerUtil:19 - Clicking login button
+2025-04-14 11:35:05 INFO  LoggerUtil:19 - Step: Unnamed Step
+2025-04-14 11:35:05 INFO  LoggerUtil:19 - Step passed
+2025-04-14 11:35:07 INFO  LoggerUtil:19 - Step: Unnamed Step
+2025-04-14 11:35:07 INFO  LoggerUtil:19 - Step passed
+2025-04-14 11:35:10 INFO  LoggerUtil:19 - Step: Unnamed Step
+2025-04-14 11:35:10 INFO  LoggerUtil:19 - Step passed
+2025-04-14 11:35:13 INFO  LoggerUtil:19 - Step: Unnamed Step
+2025-04-14 11:35:13 INFO  LoggerUtil:19 - Step passed
+2025-04-14 11:35:13 INFO  LoggerUtil:19 - Step: Unnamed Step
+2025-04-14 11:35:13 INFO  LoggerUtil:19 - Step passed
+2025-04-14 11:35:13 INFO  LoggerUtil:19 - Step: Unnamed Step
+2025-04-14 11:35:13 INFO  LoggerUtil:19 - Step passed
+2025-04-14 11:35:19 INFO  LoggerUtil:19 - Step: Unnamed Step
+2025-04-14 11:35:19 ERROR LoggerUtil:33 - Step failed
